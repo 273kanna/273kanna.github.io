@@ -1,8 +1,17 @@
 body {
     font-family: product-sans;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f0f0;
+    background-color: #ebeff4;
+    color: #333333;
+    width: 600px;
+    margin: 0 50px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  h1{
+    color: #2c3e50;
+    border-bottom: 2px solid #e74c3c;
+    padding-bottom: 10px;
   }
   
   header, footer {
