@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "@picocss/pico": "^2.0.6"
+    "@picocss/pico": "^2.0.6",
+    "enka-network-api": "^4.4.0",
+    "follow-redirects": "^1.15.6",
+    "minimist": "^1.2.8"
   }
 }
